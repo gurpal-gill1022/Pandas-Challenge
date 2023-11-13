@@ -1,6 +1,6 @@
 # Pandas Challenge: PyCity Schools
 
-# Project Description
+## Project Description
 The purpose of this project is to create and organize Pandas DataFrames to analyze school and standardized test data, and discover relevant trends that derive from the analysis. In particular, the analysis was conducted on high school students' math and reading scores, and other information on the schools that they attend.
 
 The following metrics were calculated using python coding:
@@ -17,10 +17,17 @@ Furthermore, a DataFrame was created that summarized these metrics about each sc
 - Scores by School Size
 - Scores by School Type
 
-# Files
+## Files
 1. Sample Image
 2. Jupyter Notebook Code
 3. Two DataSets Excel
 
+## Dependencies
+1. Pandas
+2. Pathlib
+
+## Programs/Languages
+1. Python
+2. Jupyter Notebook
 
  
